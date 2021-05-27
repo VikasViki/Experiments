@@ -4,4 +4,4 @@ first step towards github
 Just to check how pull requests work.
 
 Working of Ammend command.
-Testing ammend commnd.
+
